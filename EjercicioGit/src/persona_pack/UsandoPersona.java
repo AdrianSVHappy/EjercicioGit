@@ -6,7 +6,7 @@ public class UsandoPersona {
 
 	public static void main(String[] args) {
 		//Constantes
-		final float S = 8.5f;
+		final float S = 10.5f;
 		// Atributos
 		Persona personita;
 		Scanner sn = new Scanner(System.in);
